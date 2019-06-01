@@ -1,1 +1,1 @@
-# dotnet-core-exersizes
+This repository represents my learning experience with .Net Core.
