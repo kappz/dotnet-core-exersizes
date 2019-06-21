@@ -16,4 +16,7 @@
   <ItemGroup>
     <Folder Include="Views\HelloWorld\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="MvcMovie.db" />
+  </ItemGroup>
 </Project>
